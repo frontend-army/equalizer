@@ -1,4 +1,4 @@
-name: Equalizer Package
+name: Deploy Package
 
 on:
   release:
