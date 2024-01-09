@@ -1,6 +1,6 @@
 {
   "name": "@frontend-army/equalizer",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "CSS Reset maintained by the Frontend Army",
   "main": "index.js",
   "scripts": {
@@ -15,9 +15,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/frontend-army/equalizer/issues"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/frontend-army"
   },
   "homepage": "https://github.com/frontend-army/equalizer#readme"
 }
