@@ -19,8 +19,5 @@
   "publishConfig": {
     "@frontend-army:registry": "https://npm.pkg.github.com"
   },
-  "homepage": "https://github.com/frontend-army/equalizer#readme",
-  "devDependencies": {
-    "sass-lint": "^1.12.1"
-  }
+  "homepage": "https://github.com/frontend-army/equalizer#readme"
 }
