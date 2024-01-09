@@ -1,5 +1,5 @@
 # The Equalizer
-[![npm](https://img.shields.io/npm/v/equalizer.svg)](https://www.npmjs.com/package/equalizer)
+[![npm](https://img.shields.io/npm/v/@frontend-army/equalizer.svg)](https://www.npmjs.com/package/@frontend-army/equalizer)
 [![FEArmy](./assets/FEA_icon.png)](https://github.com/frontend-army)
 
 ## Features
