@@ -3,17 +3,18 @@ name: Deploy Package
 on: push
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
         with:
           node-version: 16
+      - run: npm i
       - run: npm test
 
   publish-gpr:
-    needs: test
+    needs: build
     runs-on: ubuntu-latest
     permissions:
       packages: write
