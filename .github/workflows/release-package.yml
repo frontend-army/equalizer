@@ -1,7 +1,4 @@
 name: Deploy Package
-
-on: push
-
 jobs:
   publish-gpr:
     runs-on: ubuntu-latest
