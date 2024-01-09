@@ -15,9 +15,6 @@ jobs:
   publish-gpr:
     # needs: build
     runs-on: ubuntu-latest
-    permissions:
-      packages: write
-      contents: read
     steps:
       - uses: actions/checkout@v4
       # Setup .npmrc file to publish to npm
